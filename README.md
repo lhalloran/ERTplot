@@ -1,5 +1,7 @@
 # ERTplot
-Script to plot 2D electrical resistivity tomography (ERT) data with much more versatility than RES2DINV allows.
+An alternative to RES2DINV's ugly plotting functionality.
+
+ERTplot.py is a script that plots 2D electrical resistivity tomography (ERT) data with much more versatility than RES2DINV allows.
 
 # What it does
 - Reads in an .xls/.xlsx file with X,Z,Res data (exported from RES2DINV, for example) and topography data (e.g. from GNSS survey)
